@@ -1,0 +1,17 @@
+.vscode/launch.json
+.vscode/settings.json
+camel-starter/.classpath
+camel-starter/.project
+camel-starter/.factorypath
+camel-starter/.settings/org.eclipse.core.resources.prefs
+camel-starter/.settings/org.eclipse.jdt.apt.core.prefs
+camel-starter/.settings/org.eclipse.jdt.core.prefs
+camel-starter/.settings/org.eclipse.m2e.core.prefs
+camel-starter/target/classes/log4jdbc.log4j2.properties
+camel-starter/target/classes/camel_starter/App.class
+camel-starter/target/classes/camel_starter/route/FileMoveRoute.class
+camel-starter/target/classes/camel_starter/route/FileMoveRoute$1.class
+camel-starter/target/classes/camel_starter/route/FileMoveRoute$2.class
+camel-starter/target/classes/camel_starter/route/FileMoveRoute$3.class
+camel-starter/target/test-classes/camel-starter/HelloControllerTest.class
+camel-starter/target/test-classes/.gitkeep
