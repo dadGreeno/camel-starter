@@ -15,3 +15,4 @@ camel-starter/target/classes/camel_starter/route/FileMoveRoute$2.class
 camel-starter/target/classes/camel_starter/route/FileMoveRoute$3.class
 camel-starter/target/test-classes/camel-starter/HelloControllerTest.class
 camel-starter/target/test-classes/.gitkeep
+camel-starter/target/classes/application.properties
